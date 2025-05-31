@@ -1,0 +1,61 @@
+    1  FGF
+    2  ls
+    3  pwd
+    4  ls
+    5  ls -a
+    6  cd desctop
+    7  cd Desktop/
+    8  ls
+    9  cd мизитова
+   10  sl
+   11  ls
+   12  cd ..
+   13  cd мизитова май
+   14  cd мизитова
+   15  cd май
+   16  mkdir 25.05
+   17  ls
+   18  cd 25.05
+   19  echo "hello_world"
+   20  echo "Hello" > "text.txt"
+   21  ls
+   22  cat text.txt
+   23  cd ..
+   24  cd ..
+   25  pwd май
+   26  cd 18.05
+   27  cd май
+   28  cd resume_service
+   29  cat resume_data.txt
+   30  cd ..
+   31  cd 25.05
+   32  cd ../../
+   33  cd май/25.05
+   34  git init
+   35  git status
+   36  git add text.txt
+   37  git status
+   38  git commit -m "1 коммит" 
+   39  git config --global user.email "rrraily@yandex.ru"
+   40  git config --global user.name "Raily"
+   41  git commit -m "1 коммит"
+   42  git status
+   43  ls
+   44  pwd
+   45  cd Desktop/мизитова/25.05
+   46  cd Desktop/мизитова
+   47  cd 25.05
+   48  cd май/25.05
+   49  ls
+   50  git status
+   51  echo "Второй файл" > 2.txt
+   52  ls
+   53  cat 2.txt
+   54  git status
+   55  git add 2.txt
+   56  hystory
+   57  history
+   58  clear
+   59  history
+   60  clear
+   61  history > history.txt
